@@ -30,11 +30,10 @@ The system loads a simulated MIMO dataset, converts the complex model to a real-
 ---
 
 ## Project Structure
-
-├── MIMO_Detection.ipynb
-├── Data/
-│ └── mimo_detection.mat
-└── README.md
+- `MIMO_Detection.ipynb`
+- `Data/`
+  - `mimo_detection.mat`
+- `README.md`
 
 
 ---
